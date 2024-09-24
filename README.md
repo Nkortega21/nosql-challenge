@@ -1,5 +1,7 @@
 # nosql-challenge
 UCI Data Analyst Module 12 - nosql-challenge
+Worked with Brendan, Chris, and Wei
+Used ChatGPT to Debug code
 
 
 ## Description
